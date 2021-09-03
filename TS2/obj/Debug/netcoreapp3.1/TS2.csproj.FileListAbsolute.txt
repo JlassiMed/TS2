@@ -1,0 +1,14 @@
+C:\Users\Windo\source\repos\TS2\TS2\bin\Debug\netcoreapp3.1\TS2.exe
+C:\Users\Windo\source\repos\TS2\TS2\bin\Debug\netcoreapp3.1\TS2.deps.json
+C:\Users\Windo\source\repos\TS2\TS2\bin\Debug\netcoreapp3.1\TS2.runtimeconfig.json
+C:\Users\Windo\source\repos\TS2\TS2\bin\Debug\netcoreapp3.1\TS2.runtimeconfig.dev.json
+C:\Users\Windo\source\repos\TS2\TS2\bin\Debug\netcoreapp3.1\TS2.dll
+C:\Users\Windo\source\repos\TS2\TS2\bin\Debug\netcoreapp3.1\TS2.pdb
+C:\Users\Windo\source\repos\TS2\TS2\obj\Debug\netcoreapp3.1\TS2.csproj.AssemblyReference.cache
+C:\Users\Windo\source\repos\TS2\TS2\obj\Debug\netcoreapp3.1\TS2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windo\source\repos\TS2\TS2\obj\Debug\netcoreapp3.1\TS2.AssemblyInfoInputs.cache
+C:\Users\Windo\source\repos\TS2\TS2\obj\Debug\netcoreapp3.1\TS2.AssemblyInfo.cs
+C:\Users\Windo\source\repos\TS2\TS2\obj\Debug\netcoreapp3.1\TS2.csproj.CoreCompileInputs.cache
+C:\Users\Windo\source\repos\TS2\TS2\obj\Debug\netcoreapp3.1\TS2.dll
+C:\Users\Windo\source\repos\TS2\TS2\obj\Debug\netcoreapp3.1\TS2.pdb
+C:\Users\Windo\source\repos\TS2\TS2\obj\Debug\netcoreapp3.1\TS2.genruntimeconfig.cache
